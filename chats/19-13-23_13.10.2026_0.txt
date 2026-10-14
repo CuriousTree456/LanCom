@@ -1,0 +1,2 @@
+{"type": "msg", "content": "hello", "timestamp": "Sent at 19:13:30 on 13/10/2026", "timezone": "W. Australia Standard Time", "sender": "192.168.5.245", "recipient": "192.168.5.245", "communicationID": 0, "communication": true, "id": 0, "username": null}
+{"type": "msg", "content": "hello", "timestamp": "Sent at 19:13:30 on 13/10/2026", "timezone": "W. Australia Standard Time", "sender": "192.168.5.245", "recipient": "192.168.5.245", "communicationID": 0, "communication": true, "id": 0, "username": null}
